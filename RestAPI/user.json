@@ -1,0 +1,20 @@
+{
+    "user1": {
+        "name": "wiwi",
+        "password": "password1",
+        "occupation": "teacher",
+        "id": 1
+    },
+    "user2": {
+        "name": "wiwi",
+        "password": "password1",
+        "occupation": "teacher",
+        "id": 2
+    },
+    "user3": {
+        "name": "wiwi",
+        "password": "password1",
+        "occupation": "teacher",
+        "id": 3
+    }
+}
